@@ -8,10 +8,7 @@ function home() {
 					<Image src='https://rb.gy/vtbzlp' layout='fill' objectFit='contain' />
 				</div>
 			</header>
-			<div className='flex items-center sm:divide-x divide-gray-300'>
-				<div>Pattu</div>
-				<div>Amma</div>
-			</div>
+			<div className='flex items-center sm:divide-x divide-gray-300'></div>
 		</div>
 	)
 }
